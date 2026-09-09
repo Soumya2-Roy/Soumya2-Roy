@@ -5,3 +5,7 @@ I'm a final-year Computer Science & Engineering student passionate about
 software development, problem solving, and building practical solutions.
 
 - 🎓 B.Tech in Computer Science & Engineering
+- 💻 Interested in Software Development
+- 🌱 Currently improving my DSA and development skills
+- 🚀 Building real-world projects
+- 📍 Kolkata, India
