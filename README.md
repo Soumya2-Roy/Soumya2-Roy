@@ -9,3 +9,13 @@ software development, problem solving, and building practical solutions.
 - 🌱 Currently improving my DSA and development skills
 - 🚀 Building real-world projects
 - 📍 Kolkata, India
+
+## Tech Stack
+- C language
+- C++
+- Python
+- Java
+- JavaScript
+- HTML & CSS
+- SQL
+- Git & GitHub
