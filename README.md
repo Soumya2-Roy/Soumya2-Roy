@@ -19,3 +19,5 @@ software development, problem solving, and building practical solutions.
 - HTML & CSS
 - SQL
 - Git & GitHub
+
+## Featured Projects 
