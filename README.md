@@ -36,6 +36,14 @@ software development, problem solving, and building practical solutions.
   <img src="https://img.shields.io/badge/Jakarta%20EE-ED8B00?style=for-the-badge&logo=eclipseide&logoColor=white"/>
 </p>
 
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 ### Database & Tools
 
 <p>
