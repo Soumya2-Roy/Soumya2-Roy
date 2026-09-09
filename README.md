@@ -19,6 +19,11 @@ software development, problem solving, and building practical solutions.
   <image src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
+### Web Technologies 
+<p>
+  <iamge src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
+
 - C language
 - C++
 - Python
