@@ -24,8 +24,15 @@ software development, problem solving, and building practical solutions.
   <image src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <image src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <image src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  
-    
+</p>
+
+### Database & Tools
+
+<p>
+  <iamge src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <iamge src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <image src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor"/>
+  <iamge src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor"/>
 </p>
 
 - C language
