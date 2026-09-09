@@ -21,3 +21,7 @@ software development, problem solving, and building practical solutions.
 - Git & GitHub
 
 ## Featured Projects 
+
+
+
+## Connect With Me
