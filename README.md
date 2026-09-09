@@ -62,14 +62,7 @@ software development, problem solving, and building practical solutions.
   <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
 </p>
 
-- C language
-- C++
-- Python
-- Java
-- JavaScript
-- HTML & CSS
-- SQL
-- Git & GitHub
+
 
 ## Featured Projects 
 
